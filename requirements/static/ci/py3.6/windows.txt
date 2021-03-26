@@ -106,7 +106,7 @@ pytz==2020.1
 pyvmomi==6.7.1.2018.12
 pywin32==300
 pywinrm==0.4.1
-pyyaml==5.3.1
+pyyaml==5.4
 pyzmq==18.0.1 ; python_version < "3.9"
 requests-ntlm==1.1.0      # via pywinrm
 requests==2.25.1
